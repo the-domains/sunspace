@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[SunSpace]]></title>
         <description><![CDATA[SunSpace]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sunspace/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 23:20:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 23:27:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sunspace/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>SunSpace</p>]]></description>
-            <link>undefinedsunspace/index.html</link>
+            <link>https://thegrid.ai/sunspace/sunspace/index.html</link>
             <guid isPermaLink="false">1c21497d-aefc-4ea9-a6ae-6a85134a9cce</guid>
-            <pubDate>Sun, 26 Jun 2016 23:20:46 GMT</pubDate>
+            <pubDate>Sun, 26 Jun 2016 23:27:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
